@@ -83,9 +83,3 @@ Higher similarity = higher score
 
 Feel free to fork this repo and submit PRs for improvements!
 
-Do you want me to:
-✅ Include a sample screenshot section with placeholder image,
-✅ Add badges like “Made with Python” and “Open Source”,
-✅ Provide an example conversation in the README?
-
-Or should I keep it clean and simple for now?
